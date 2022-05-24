@@ -14,4 +14,30 @@ li{
 }
 nav{
     border-bottom: 1px solid black;
+    display: flex;
+    padding-top: 20px;
+    
+}
+h2{
+    margin-top: 50px;
+}
+.second{
+    list-style-type: lower-latin;
+}
+a{
+    text-decoration: none;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: #f5f5f5;
+    border-top: 1px solid #efefef;
+}
+i{
+    padding:5px;
+    background-color: #50bffd;
+    color: white;
+}
+.clr{
+    color: #cecece;
 }
