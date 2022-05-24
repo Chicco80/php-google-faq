@@ -81,11 +81,11 @@ $faq=[
 <body>
     <header>
         <nav>
-            <div class="img d-flex">
+            <div class="img d-flex justify-content-start w-100">
                 <img src="./img/googlepng.png" alt="google">
-                <h2>Privacy e termini</h2>
+                <h2 class="title">Privacy e termini</h2>
             </div>
-            <div>
+            <div class="">
                 <ul class="d-flex">
                     <li class="fw-bold">Introduzione</li>
                     <li class="fw-bold">Norme sulla Privacy</li>
